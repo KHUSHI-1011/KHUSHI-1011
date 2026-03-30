@@ -36,15 +36,5 @@ Check out the pinned repositories to see some highlights!
 
 ---
 
-## 💬 Let’s Connect
-
-I’m always open to collaborating and learning from others!  
-Connect with me on:
-- ✉️ Email: *(your email)*
-- 🔗 LinkedIn: *(your LinkedIn link)*
-- 🌐 Portfolio: *(optional personal website)*
-
----
-
 Thanks for stopping by! 😊  
 Feel free to leave a ⭐ if you like what you see!
